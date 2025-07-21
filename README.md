@@ -21,3 +21,4 @@ JavaScript (vanilla)
 
 🚀 How to Run
 Clone the repo:
+https://eyy4k.github.io/Copy-Website-Beta/
